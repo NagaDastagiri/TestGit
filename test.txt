@@ -1,2 +1,3 @@
 Hello Naga!
 Hello all
+This is to test smerge conflicts
