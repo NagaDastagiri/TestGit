@@ -1,0 +1,1 @@
+git status. Lists all new or modified files to be committed. $ git add [file] ... This cheat sheet summarizes commonly used Git command line instructions for quick ... done by NAGA
