@@ -1,3 +1,4 @@
+<<<<<<< .merge_file_a03328
 jfdsakdsa
 dsfjalk
 sdalfkj;
@@ -5,3 +6,11 @@ dsfajkl;k
 sladfkj;
 sdfajkl;
 dsfajkl;
+=======
+fsdadsfa
+hai
+naga
+how are you
+how is your work
+kksgjfd
+>>>>>>> .merge_file_a07448
