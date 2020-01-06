@@ -1,5 +1,6 @@
 Hello Naga!
 Hello all
 This is to test smerge conflicts
-new line added
-new extra line added
+pizza 
+burger
+fries
