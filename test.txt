@@ -1,6 +1,12 @@
 Hello Naga!
 Hello all
 This is to test smerge conflicts
+
 pizza 
 burger
 fries
+
+if your thristy
+drink water
+drink soda
+thirsty
